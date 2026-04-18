@@ -67,18 +67,5 @@ Remaining balance: 3500
 | Not multiple of 500  | Error: Withdrawal amount must be multiple of 500 |
 | Insufficient balance | Error: Insufficient balance. Available: 5000     |
 
-## Notes
-
-* The balance is hardcoded (5000) for demonstration purposes
-* No persistent storage or real banking integration is included
-
-## Future Improvements
-
-* Add user authentication
-* Connect to a database for dynamic balance tracking
-* Support deposit and balance inquiry features
-* Add a graphical user interface (GUI)
-
-## License
 
 This project is free to use for learning and educational purposes.
