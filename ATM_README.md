@@ -67,5 +67,3 @@ Remaining balance: 3500
 | Not multiple of 500  | Error: Withdrawal amount must be multiple of 500 |
 | Insufficient balance | Error: Insufficient balance. Available: 5000     |
 
-
-This project is free to use for learning and educational purposes.
